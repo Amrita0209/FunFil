@@ -22,15 +22,13 @@ export default class Home extends Component {
             source={require("../assets/appIcon.png")}
             style={styles.appIcon}
           />
-          <Text style={styles.appName}>Look Me....</Text>
+          <Text style={styles.appName}>FunFil</Text>
         </View>
         <View style={styles.middleContainer}>
           <View style={styles.contentContainer}>
             <View style={styles.textContainer}>
               <Text style={styles.contentText}>
-                Look Me is the best photo filter app for pic with the funny
-                camera effects. With the stunning live photo filters directly on
-                your face.
+                FunFil is a great photo filter app for amusing camera effects with cutesy and funny real-time photo filters directly on your face.
               </Text>
             </View>
             <View style={styles.imageContainer}>
