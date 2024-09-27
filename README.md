@@ -1,2 +1,2 @@
-# AR-PRO-C185
-After Class Project for PRO-C185
+# FunFil
+An app to take funny pictures of you and your loved ones. 
