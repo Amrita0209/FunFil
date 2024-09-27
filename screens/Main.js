@@ -182,7 +182,7 @@ export default class Main extends Component {
             source={require("../assets/appIcon.png")}
             style={styles.appIcon}
           />
-          <Text style={styles.appName}>Look Me....</Text>
+          <Text style={styles.appName}>FunFil</Text>
         </View>
         <View style={styles.middleContainer}>
           <Camera
